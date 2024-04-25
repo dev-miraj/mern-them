@@ -1,0 +1,27 @@
+{
+  "name": "miraj-dark",
+  "displayName": "miraj dark",
+  "description": "",
+  "publisher": "mernthem",
+  "repository": {
+    "type": "git",
+    "url": ""
+    
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "miraj dev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miraj dev-color-theme.json"
+      }
+    ]
+  }
+}
