@@ -5,9 +5,15 @@
   "publisher": "mernthem",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/miraj-2302/mern-them"
     
   },
+  "keywords": [
+    "dark them",
+    "mern them",
+    "dark colors"
+
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
